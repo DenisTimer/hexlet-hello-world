@@ -7,3 +7,9 @@ requires-python = ">=3.14"
 dependencies = [
     "more-itertools>=11.1.0",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.15.20",
+]
