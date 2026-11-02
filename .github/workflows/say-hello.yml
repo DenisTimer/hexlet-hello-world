@@ -1,0 +1,10 @@
+name: Say Hello
+
+on: push
+
+jobs:
+  say-helloL:
+    runs-on: ubuntu-latest
+    steps:
+      - user: actions/checkout@v7
+      - run: make say-hello
