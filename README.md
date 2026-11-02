@@ -1,0 +1,1 @@
+[![Say Hello](https://github.com/DenisTimer/hexlet-hello-world/actions/workflows/say-hello.yml/badge.svg)](https://github.com/DenisTimer/hexlet-hello-world/actions/workflows/say-hello.yml)
